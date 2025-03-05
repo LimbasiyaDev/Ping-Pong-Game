@@ -1,4 +1,4 @@
-git add .
+
 <!-- Objective -->
 1. There will be 2 rods at the top and bottom of the screen.
 2. Both rods will be controlled with the same keys, In other words, they will move together
